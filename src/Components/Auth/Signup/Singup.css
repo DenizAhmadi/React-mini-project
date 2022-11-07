@@ -1,0 +1,24 @@
+.formBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.loginLogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.loginLogo img {
+  width: 20%;
+}
+
+.loginLogoLabel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sepantaText {
+  color: #78b8ff !important;
+  font-size: larger;
+}

@@ -1,0 +1,42 @@
+.searchBtn {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 0.25rem !important;
+}
+
+.card{
+    width: 100%;
+}
+/* .rmdp-input{
+    padding: 3vh !important;
+} */
+.search-fields-title{
+    color: "#707070";
+}
+
+.UsersList-Header{
+    margin: 0rem 0rem 1rem 1rem;
+}
+
+.user-table-center-element{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.table-user-avatar{
+    border: 1px solid #e1e1e1;
+}
+
+.table-user-name{
+    width: 50%;
+}
+
+.table-user-image{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+
+.p-datatable-emptymessage{
+    color:crimson !important;
+}
